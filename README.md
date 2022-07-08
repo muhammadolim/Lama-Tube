@@ -2,7 +2,7 @@
 ### MUI Social Media Skeleton <br />
 
 ## About
-This is the first project using MUI. You can interact with two things here: dark mode and create post buttons. This was made by [tutorial](https://youtu.be/fzxEECHnsvU) of Lama Dev
+This is the first project using MUI. You can interact with two things here: dark mode and create post buttons. This was made by [tutorial](https://youtu.be/fzxEECHnsvU) of Lama Dev.
 
 ## How to see
 Online: [Lama-Tube](https://muhammadolim.github.io/Lama-Tube/) <br />
